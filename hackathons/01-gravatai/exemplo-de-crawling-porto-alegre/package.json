@@ -1,0 +1,14 @@
+{
+  "name": "raspagem-de-dados-poa",
+  "version": "1.0.0",
+  "description": "webscraping do site de transparencia da prefeitura de porto alegre",
+  "main": "index.js",
+  "keywords": ["raspagem-de-dados", "webscraping"],
+  "dependencies" : {
+    "express": "latest",
+    "request": "latest",
+    "cheerio": "latest"
+  },
+  "author": "jeanbauer",
+  "license": "MIT"
+}
