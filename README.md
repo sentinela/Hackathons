@@ -22,4 +22,4 @@ Se você quiser fazer parte da criação de algo que pode fazer a diferença na 
 <h2>Próximo evento</h2>
 Ainda não definido. Pode nos ajudar colaborando com o local para o próximo evento? 
 
-Fale conosco => nossacidadetransparente@gmail.com :mailbox_closed: || [Twitter](https://twitter.com/nctransparente) :envelope:
+Fale conosco => sentinelaprojeto@gmail.com :mailbox_closed: || [Twitter](https://twitter.com/sentinela_br) :envelope:
